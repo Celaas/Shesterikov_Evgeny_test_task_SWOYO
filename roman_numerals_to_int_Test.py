@@ -1,3 +1,8 @@
+"""
+Тесты для задания "Перевод числа, состоящего из римских цифр, в целое число"
+"""
+
+
 import unittest
 from roman_numerals_to_int import roman_numerals_to_int
 
